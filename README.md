@@ -31,6 +31,6 @@
 
 ## Git
 
-- [git clone후 push하기](./Git/git_clone.md)
+- [git clone후 push하기](./Git/git_clone.md) 2021-08-22
 
 ## Etc
