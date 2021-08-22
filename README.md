@@ -31,4 +31,6 @@
 
 ## Git
 
+- [git clone후 push하기](./Git/git_clone.md)
+
 ## Etc
