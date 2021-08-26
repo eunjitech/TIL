@@ -26,6 +26,7 @@
 ## Javascript
 
 - [this](./Javascript/this.md) 2021-08-24
+- [javascript](./Javascript/javascript.md) 2021-08-26
 
 ## React.js
 
