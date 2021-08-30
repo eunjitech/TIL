@@ -19,7 +19,8 @@
 
 ## Algorithm
 
-- [배열중복제거](Algorithm/배열중복제거.md) 2021-08-28
+- [배열중복제거](./Algorithm/배열중복제거.md) 2021-08-28
+- [체육복](./Algorithm/체육복.md) 2021-08-30
 
 ## HTML
 
