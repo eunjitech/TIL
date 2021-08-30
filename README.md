@@ -30,6 +30,7 @@
 
 - [this](./Javascript/this.md) 2021-08-24
 - [javascript](./Javascript/javascript.md) 2021-08-26
+- [환경변수설정](./Javascript/환경변수설정.md) 2021-08-31
 
 ## React.js
 
@@ -42,8 +43,9 @@
 ## Git
 
 - [git clone후 push하기](./Git/git_clone.md) 2021-08-22
-- [mongoDB](./Etc/mongoDB.md) 2021-08-30
+- [git basic](./Git/git_basic.md) 2021-08-31
 
 ## Etc
 
 - [npx](./Etc/npx.md) 2021-08-24
+- [mongoDB](./Etc/mongoDB.md) 2021-08-30
