@@ -22,6 +22,7 @@
 - [배열중복제거](./Algorithm/배열중복제거.md) 2021-08-28
 - [체육복](./Algorithm/체육복.md) 2021-08-30
 - [실패율](./Algorithm/실패율.md) 2021-08-31
+- [직사각형별찍기](./Algorithm/직사각형별찍기.md) 2021-09-01
 
 ## HTML
 
@@ -35,7 +36,7 @@
 
 ## React.js
 
-- [Hook_1](./React/hooks.md) 2021-08-26
+- [Hook_1](./React/hook_1.md) 2021-08-26
 
 ## Vue.js
 
