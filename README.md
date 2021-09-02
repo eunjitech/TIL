@@ -51,3 +51,4 @@
 
 - [npx](./Etc/npx.md) 2021-08-24
 - [mongoDB](./Etc/mongoDB.md) 2021-08-30
+- [CORS](./Etc/CORS.md) 2021-09-02
