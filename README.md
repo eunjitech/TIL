@@ -23,6 +23,7 @@
 - [체육복](./Algorithm/체육복.md) 2021-08-30
 - [실패율](./Algorithm/실패율.md) 2021-08-31
 - [직사각형별찍기](./Algorithm/직사각형별찍기.md) 2021-09-01
+- [task](./Algorithm/task.md) 2021-09-04
 
 ## HTML
 
