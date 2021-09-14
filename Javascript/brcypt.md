@@ -59,7 +59,9 @@ app.post("/register", (req, res) => {
 ### 결과 확인
 
 postman
+
 <img src="./../assets/210901-1.png" width=500 />
 
 mongoDB
+
 <img src="./../assets/210901-2.png" width=500 />

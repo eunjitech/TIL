@@ -27,6 +27,7 @@
 - [x만큼간격이있는n개의숫자](./Algorithm/x만큼간격이있는n개의숫자.md) 2021-09-09
 - [행렬의덧셈](./Algorithm/행렬의덧셈.md) 2021-09-11
 - [핸드폰번호가리기](./Algorithm/핸드폰번호가리기.md) 2021-09-14
+- [하샤드수](./Algorithm/하샤드수.md) 2021-09-14
 
 ## HTML
 
@@ -37,6 +38,7 @@
 - [this](./Javascript/this.md) 2021-08-24
 - [javascript](./Javascript/javascript.md) 2021-08-26
 - [환경변수설정](./Javascript/환경변수설정.md) 2021-08-31
+- [OR,AND연산자](./Javascript/or_and.md) 2021-09-14
 
 ## React.js
 
