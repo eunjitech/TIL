@@ -68,3 +68,4 @@
 - [mongoDB](./Etc/mongoDB.md) 2021-08-30
 - [CORS](./Etc/CORS.md) 2021-09-02
 - [concurrently](./Etc/concurrently.md) 2021-09-02
+- [Web개발로드맵2022](./Etc/웹개발로드맵_2022.md) 2022-01-12
